@@ -1,6 +1,6 @@
 # Twelve-Factor WordPress
 
-WordPress, the [Twelve-Factor](http://12factor.net/) way: fully managed using Composer and configured using environment variables.
+WordPress, the [Twelve-Factor](http://12factor.net/) way: fully managed using Composer and configured using environment variables..
 
 ## General Concepts and Considerations
 
